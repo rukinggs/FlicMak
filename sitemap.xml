@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/rukinggs/FlicMak</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/activity</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/issues</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/pulls</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/actions</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/security</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/blob/main/for%20statistics%20view</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/releases</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels?sort=name-asc</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels?sort=name-desc</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels?sort=count-desc</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels?sort=count-asc</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/bug</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/documentation</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/duplicate</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/enhancement</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/good%20first%20issue</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/help%20wanted</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/invalid</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/question</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/labels/wontfix</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rukinggs/FlicMak/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-22T17:25:10+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
